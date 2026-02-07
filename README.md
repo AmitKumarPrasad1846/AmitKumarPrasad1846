@@ -7,6 +7,34 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitkrprasad1846@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Google_Sites-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/haircoaction/home)
 
+## 🎯 Core Skills
+
+### **Technical Skills**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI/UX-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=flat-square&logo=espressif&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### **Tools & Platforms**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Google Sites](https://img.shields.io/badge/Google_Sites-4285F4?style=flat-square&logo=google&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
+![MS PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
+![MS Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
+
+### **Soft Skills**
+![Team Management](https://img.shields.io/badge/Team_Management-4A90E2?style=flat-square)
+![Leadership](https://img.shields.io/badge/Leadership-7B68EE?style=flat-square)
+![Communication](https://img.shields.io/badge/Communication-32CD32?style=flat-square)
+![English Proficiency](https://img.shields.io/badge/English_Proficiency-FF6B6B?style=flat-square)
+
 ## 🎓 About Me
 I'm a **B.Tech student in Electronics and Communication Engineering (ECE)** at LNCT Group of Colleges, Bhopal. A proud **JNV Indore alumnus** with a strong passion for **AI, Data Science, IoT, and emerging technologies**.
 
@@ -31,28 +59,6 @@ Currently pursuing **AI & ML; Data Science Certification by IIT Indore × Intell
 - **Campus Ambassador** - eDC IIT Delhi (Dec 2025 - Jan 2026)
 - **Graphic Designer & Content Writer** - DevSphereIndia (Sep 2025 - Jan 2026)
 - **Web Developer** - Hair Coaction (Jul 2025 - Sep 2025)
-
-## 🛠️ Tech Stack
-### **Programming & Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-
-### **Tools & Platforms**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Google Sites](https://img.shields.io/badge/Google_Sites-4285F4?style=flat&logo=google&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=flat&logo=espressif&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-### **Soft Skills**
-![Team Management](https://img.shields.io/badge/Team_Management-4A90E2?style=flat)
-![Leadership](https://img.shields.io/badge/Leadership-7B68EE?style=flat)
-![Communication](https://img.shields.io/badge/Communication-32CD32?style=flat)
 
 ## 🌟 Featured Projects
 
@@ -100,6 +106,7 @@ I'm always open to:
 **Connect with me:**
 - 📧 **Email:** amitkrprasad1846@gmail.com
 - 💼 **LinkedIn:** [Amit Kumar Prasad](https://www.linkedin.com/in/amit-kumar-prasad-00b297369/)
+
 ---
 
 ⭐ **"Passionate about building innovative and impactful technology."** - Amit Kumar Prasad
