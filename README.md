@@ -87,7 +87,7 @@ Creating engaging visual content for tech communities and organizations.
 ## 🏫 Education
 - **B.Tech in ECE** - LNCT Group of Colleges (2025 - 2029)
 - **AI & ML Certification** - IIT Indore × Intellipaat × Drishti CPS (2025 - 2027)
-- **Jawahar Navodaya Vidyalaya** - Indore (2020 - 2024)
+- **Jawahar Navodaya Vidyalaya** - (2020 - 2024)
 
 ## 📫 Let's Connect!
 I'm always open to:
@@ -100,9 +100,6 @@ I'm always open to:
 **Connect with me:**
 - 📧 **Email:** amitkrprasad1846@gmail.com
 - 💼 **LinkedIn:** [Amit Kumar Prasad](https://www.linkedin.com/in/amit-kumar-prasad-00b297369/)
-- 📱 **Phone:** +91 8602334842
-- 🏠 **Location:** Indore, Madhya Pradesh, India
-
 ---
 
 ⭐ **"Passionate about building innovative and impactful technology."** - Amit Kumar Prasad
