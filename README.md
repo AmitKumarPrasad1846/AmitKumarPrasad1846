@@ -15,8 +15,8 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmitKumarPrasad1846&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumarPrasad1846&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmitKumarPrasad1846&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumarPrasad1846&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AmitKumarPrasad1846&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
 </div>
@@ -79,10 +79,10 @@ Professional business website developed for Hair Coaction using modern design pr
 
 | Technology Area | Progress | Focus |
 |----------------|----------|-------|
-| **AI/ML Development** | ![70%](https://progress-bar.dev/70/) | Python, TensorFlow, Scikit-learn |
-| **IoT Systems** | ![85%](https://progress-bar.dev/85/) | ESP32, MQTT, Node-RED |
-| **Full-Stack Development** | ![60%](https://progress-bar.dev/60/) | JavaScript, Java, SQL |
-| **Embedded Systems** | ![90%](https://progress-bar.dev/90/) | Arduino, Embedded C |
+| **AI/ML Development** | ![70%](https://img.shields.io/badge/70%25-Progress-blue) | Python, TensorFlow, Scikit-learn |
+| **IoT Systems** | ![85%](https://img.shields.io/badge/85%25-Progress-blue) | ESP32, MQTT, Node-RED |
+| **Full-Stack Development** | ![60%](https://img.shields.io/badge/60%25-Progress-blue) | JavaScript, Java, SQL |
+| **Embedded Systems** | ![90%](https://img.shields.io/badge/90%25-Progress-blue) | Arduino, Embedded C |
 
 </div>
 
@@ -102,7 +102,7 @@ Professional business website developed for Hair Coaction using modern design pr
 
 ## 🎓 Education
 
-- **B.Tech in Electronics & Communication Engineering**  
+- **B.Tech in Electronics & Communication Engineering** (Expected)  
   *LNCT Group of Colleges, Bhopal*  
   `2025 - 2029`
 
@@ -138,6 +138,6 @@ I'm actively seeking opportunities in:
 
 ⭐ *Feel free to explore my repositories and contribute!*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=AmitKumarPrasad1846&color=58a6ff&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=AmitKumarPrasad1846&color=58a6ff&style=flat-square&label=Profile%20Views)
 
 </div>
