@@ -1,6 +1,6 @@
 <div align="center">
   
-# AMIT KUMAR PRASAD
+# **AMIT KUMAR PRASAD**
 ## Electronics & Communication Engineering Student | AI/ML & IoT Developer
 
 </div>
@@ -21,9 +21,10 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmitKumarPrasad1846&theme=radical)
 
 </div>
-<div align="center">
+
+## 💻 TECHNICAL STACK
   
-## 💻 Technical Stack
+<div align="center">
 
 ### **Programming & Development**
 <div align="center">
@@ -51,7 +52,7 @@
 
 </div>
 
-## 🏆 Featured Projects
+## 🏆 FEATURED PROJECTS
 
 ### **🏡 Smart Home Dashboard** 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmitKumarPrasad1846/SmartHomeDashboard)
@@ -77,7 +78,7 @@ Professional business website developed for Hair Coaction using modern design pr
 
 **Role:** Full Website Development & Design
 
-## 📈 Currently Learning
+## 📈 CURRENTLY LEARNING
 
 <div align="center">
 
@@ -90,7 +91,7 @@ Professional business website developed for Hair Coaction using modern design pr
 
 </div>
 
-## 🏅 Achievements & Recognition
+## 🏅 ACHIEVEMENTS & RECOGNITION
 
 <div align="center">
 
@@ -104,7 +105,7 @@ Professional business website developed for Hair Coaction using modern design pr
 
 </div>
 
-## 🎓 Education
+## 🎓 EDUCATION
 
 - **B.Tech in Electronics & Communication Engineering** (Expected)  
   *LNCT Group of Colleges, Bhopal*  
@@ -118,7 +119,7 @@ Professional business website developed for Hair Coaction using modern design pr
   *Science Stream*  
   `2020 - 2024`
 
-## 📬 Let's Collaborate!
+## 📬 LET'S COLLABORATE
 
 <div>
 
