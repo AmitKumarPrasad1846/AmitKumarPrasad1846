@@ -1,6 +1,6 @@
 <div align="center">
   
-# Amit Kumar Prasad
+# AMIT KUMAR PRASAD
 ## Electronics & Communication Engineering Student | AI/ML & IoT Developer
 
 </div>
@@ -18,15 +18,9 @@
 
 <div align="center">
   
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=AmitKumarPrasad1846&show_icons=true&theme=dark" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumarPrasad1846&layout=compact&theme=dark&langs_count=6" alt="Top Languages" /></td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="https://streak-stats.demolab.com?user=AmitKumarPrasad1846&theme=dark&hide_border=true" alt="GitHub Streak" /></td>
-  </tr>
-</table>
+![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmitKumarPrasad1846&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumarPrasad1846&layout=compact&theme=radical&hide=html,css)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmitKumarPrasad1846&theme=radical)
 
 </div>
 
