@@ -18,8 +18,6 @@
 
 <div align="center">
   
-![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmitKumarPrasad1846&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumarPrasad1846&layout=compact&theme=radical&hide=html,css)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmitKumarPrasad1846&theme=radical)
 
 </div>
