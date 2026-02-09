@@ -1,112 +1,101 @@
-# 👋 Hello, I'm Amit Kumar Prasad!
+<div align="center">
 
-**ECE Student at LNCT | AI/ML Enthusiast | IoT Developer | Campus Ambassador @IITs**
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&height=80&lines=👋+Hello,+I'm+Amit+Kumar+Prasad;🚀+ECE+Student+%7C+AI/ML+Enthusiast+%7C+IoT+Developer;🏆+Campus+Ambassador+@IITs+%7C+Hackathon+Finalist" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kumar-prasad-00b297369/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmitKumarPrasad1846)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitkrprasad1846@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Google_Sites-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/haircoaction/home)
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/amit-kumar-prasad-00b297369/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AmitKumarPrasad1846">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:amitkrprasad1846@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://sites.google.com/view/haircoaction/home">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
-## 🎯 Core Skills
-
-### **Technical Skills**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI/UX-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=flat-square&logo=espressif&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### **Tools & Platforms**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Google Sites](https://img.shields.io/badge/Google_Sites-4285F4?style=flat-square&logo=google&logoColor=white)
-![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
-![MS PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
-![MS Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
-
-### **Soft Skills**
-![Team Management](https://img.shields.io/badge/Team_Management-4A90E2?style=flat-square)
-![Leadership](https://img.shields.io/badge/Leadership-7B68EE?style=flat-square)
-![Communication](https://img.shields.io/badge/Communication-32CD32?style=flat-square)
-![English Proficiency](https://img.shields.io/badge/English_Proficiency-FF6B6B?style=flat-square)
-
-## 🎓 About Me
-I'm a **B.Tech student in Electronics and Communication Engineering (ECE)** at LNCT Group of Colleges, Bhopal. A proud **JNV Indore alumnus** with a strong passion for **AI, Data Science, IoT, and emerging technologies**.
-
-Currently pursuing **AI & ML; Data Science Certification by IIT Indore × Intellipaat × Drishti CPS**, while expanding my knowledge in programming and software development.
-
-**Vision:** To become a leading AI developer and entrepreneur, creating impactful solutions that merge innovation with real-world needs.
-
-## 🏆 Achievements
-- 🏅 **Finalist - STPI × IIT Guwahati Techniche Hackathon 2025**
-- 🏅 **Finalist - Cardano Asia Hackathon 2025**
-- 🎯 **Campus Ambassador** - eDC IIT Delhi 2026
-- 🎯 **Campus Ambassador** - Blithchron, IIT Gandhinagar
-- 🎯 **Training & Placement Cell Coordinator** - LNCT Group of Colleges
-
-## 💼 Experience
-### **Current Roles**
-- **Graphic Designer** - CodeCap Community (Jan 2026 - Present)
-- **Campus Ambassador** - Blithchron, IIT Gandhinagar (Jan 2026 - Present)
-- **TPC Coordinator** - LNCT Group of Colleges (Jan 2026 - Present)
-
-### **Previous Experience**
-- **Campus Ambassador** - eDC IIT Delhi (Dec 2025 - Jan 2026)
-- **Graphic Designer & Content Writer** - DevSphereIndia (Sep 2025 - Jan 2026)
-- **Web Developer** - Hair Coaction (Jul 2025 - Sep 2025)
-
-## 🌟 Featured Projects
-
-### 🏡 [Smart Home Dashboard](https://github.com/AmitKumarPrasad1846/SmartHomeDashboard)
-A beautiful web-based smart home control panel with sunset glass theme, built on ESP8266.
-
-**Tech:** ESP8266, HTML, CSS, JavaScript, Arduino C++
-**Features:** Temperature/Humidity monitoring, Ambient light detection, Relay control, Responsive UI
-
-### 💇 [Hair Coaction Website](https://sites.google.com/view/haircoaction/home)
-Developed a complete website for Hair Coaction using Google Sites.
-
-**Tech:** Google Sites, UI/UX Design
-**Role:** Web Developer & Designer
-
-### 🎨 [Graphic Design Portfolio]
-Creating engaging visual content for tech communities and organizations.
-
-**Tools:** Figma, Canva, Adobe Creative Suite
-**Clients:** CodeCap Community, DevSphereIndia, IIT Campus Programs
-
-## 📚 Currently Learning
-- **AI & Machine Learning** - IIT Indore Certification
-- **JavaScript & Java** for full-stack development
-- **Advanced Python** for data science
-- **IoT & Embedded Systems** with ESP32/Arduino
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmitKumarPrasad1846&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumarPrasad1846&layout=compact&theme=radical&hide_border=true)
-
-## 🏫 Education
-- **B.Tech in ECE** - LNCT Group of Colleges (2025 - 2029)
-- **AI & ML Certification** - IIT Indore × Intellipaat × Drishti CPS (2025 - 2027)
-- **Jawahar Navodaya Vidyalaya** - (2020 - 2024)
-
-## 📫 Let's Connect!
-I'm always open to:
-- 🤝 **Collaborations** on AI/IoT projects
-- 🏆 **Hackathons** and coding competitions
-- 💼 **Internship opportunities** in tech
-- 🎯 **Campus ambassador** programs
-- 📚 **Learning and knowledge sharing**
-
-**Connect with me:**
-- 📧 **Email:** amitkrprasad1846@gmail.com
-- 💼 **LinkedIn:** [Amit Kumar Prasad](https://www.linkedin.com/in/amit-kumar-prasad-00b297369/)
+<!-- Quick Stats -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓-ECE_Student_at_LNCT-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/🏆-3x_Hackathon_Finalist-FFD700?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎯-Campus_Ambassador_@IITs-32CD32?style=flat-square" />
+  <img src="https://img.shields.io/badge/📍-Bhopal,_India-FF6B6B?style=flat-square" />
+</p>
 
 ---
 
-⭐ **"Passionate about building innovative and impactful technology."** - Amit Kumar Prasad
+## 🎯 **Core Competencies**
+
+### **💻 Technical Skills**
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### **🤖 AI/ML & IoT**
+![AI/ML](https://img.shields.io/badge/AI/ML-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-000000?style=for-the-badge&logo=iot&logoColor=white)
+
+### **🎨 Design & Tools**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Sites](https://img.shields.io/badge/Google_Sites-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+</div>
+
+### **🌟 Soft Skills**
+<div align="center">
+  
+![Leadership](https://img.shields.io/badge/Leadership-7B68EE?style=for-the-badge&logo=star&logoColor=white)
+![Team Management](https://img.shields.io/badge/Team_Management-4A90E2?style=for-the-badge&logo=users&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-32CD32?style=for-the-badge&logo=message-circle&logoColor=white)
+![Graphic Design](https://img.shields.io/badge/Graphic_Design-FF69B4?style=for-the-badge&logo=adobe&logoColor=white)
+
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+<!-- GitHub Stats -->
+![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmitKumarPrasad1846&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD700&text_color=FFFFFF&include_all_commits=true)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumarPrasad1846&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=AmitKumarPrasad1846&theme=radical&hide_border=true&background=0D1117&fire=FF6B6B&ring=FFD700&currStreakLabel=FF6B6B)
+
+</div>
+
+---
+
+## 🏆 **Featured Projects**
+
+### **🏡 [Smart Home Dashboard](https://github.com/AmitKumarPrasad1846/SmartHomeDashboard)** 
+**ESP8266 + Web Interface | Sunset Glass Theme**
+```yaml
+Tech: ESP8266, HTML, CSS, JavaScript, Arduino C++, MQTT
+Features:
+  ✅ Real-time temperature & humidity monitoring
+  ✅ Ambient light detection with LDR
+  ✅ Web-controlled relays interface
+  ✅ Sunset-themed glass-morphism UI
+  ✅ Responsive design for all devices
+Status: 🚀 Active Development (V3.0 in progress)
