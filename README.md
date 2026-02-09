@@ -21,7 +21,8 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmitKumarPrasad1846&theme=radical)
 
 </div>
-
+<div align="center">
+  
 ## 💻 Technical Stack
 
 ### **Programming & Development**
@@ -46,6 +47,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" alt="Figma" title="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" title="VS Code" />
+</div>
+
 </div>
 
 ## 🏆 Featured Projects
