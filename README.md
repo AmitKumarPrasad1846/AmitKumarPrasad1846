@@ -1,6 +1,7 @@
 # 🚀 Amit Kumar Prasad
-
-**Electronics & Communication Engineering Student | AI/ML & IoT Developer**
+<div align="center">
+## **Electronics & Communication Engineering Student | AI/ML & IoT Developer**
+</div>
 
 <div align="center">
 
@@ -15,9 +16,15 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmitKumarPrasad1846&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumarPrasad1846&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8)
-![GitHub Streak](https://streak-stats.demolab.com/?user=AmitKumarPrasad1846&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=AmitKumarPrasad1846&show_icons=true&theme=dark" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumarPrasad1846&layout=compact&theme=dark&langs_count=6" alt="Top Languages" /></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://streak-stats.demolab.com?user=AmitKumarPrasad1846&theme=dark&hide_border=true" alt="GitHub Streak" /></td>
+  </tr>
+</table>
 
 </div>
 
@@ -116,7 +123,7 @@ Professional business website developed for Hair Coaction using modern design pr
 
 ## 📬 Let's Collaborate!
 
-<div align="center">
+<div>
 
 I'm actively seeking opportunities in:
 - **AI/ML & IoT Projects**
