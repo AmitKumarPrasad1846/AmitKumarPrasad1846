@@ -1,6 +1,8 @@
-# 🚀 Amit Kumar Prasad
 <div align="center">
-## **Electronics & Communication Engineering Student | AI/ML & IoT Developer**
+  
+# Amit Kumar Prasad
+## Electronics & Communication Engineering Student | AI/ML & IoT Developer
+
 </div>
 
 <div align="center">
