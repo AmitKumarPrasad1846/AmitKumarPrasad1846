@@ -22,6 +22,16 @@
 
 </div>
 
+## 🎮 IoT SIMULATOR GAME
+
+<div align="center">
+
+[![Play IoT Game](https://img.shields.io/badge/🎮_Play_Now-7289DA?style=for-the-badge&logo=game&logoColor=white)](https://amitkumarprasad1846.github.io/portfolio-game/)
+[![View Source Code](https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmitKumarPrasad1846/portfolio-game)
+
+**Collect data packets in this IoT-themed game!**
+</div>
+
 ## 💻 TECHNICAL STACK
   
 <div align="center">
