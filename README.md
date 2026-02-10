@@ -22,15 +22,6 @@
 
 </div>
 
-## 🎮 INTERACTIVE GAME
-
-<div align="center">
-
-### Play a Quick Game!
-[![Play Now](https://img.shields.io/badge/🎮-Play_My_Game-7289DA?style=for-the-badge&logo=game&logoColor=white)](https://amitkumarprasad1846.github.io/game/)
-
-**Simple ASCII Game Preview:**
-
 ## 💻 TECHNICAL STACK
   
 <div align="center">
