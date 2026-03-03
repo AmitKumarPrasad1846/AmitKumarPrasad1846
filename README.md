@@ -135,7 +135,6 @@ I'm actively seeking opportunities in:
 
 </div>
 ---
-## 📈 GitHub Activity
 
 <!-- GitHub Activity Graph -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amitkumarprasad1846&theme=github-dark&bg_color=0D1117&color=3B82F6&line=10B981&point=FFFFFF&area=true&hide_border=true)
