@@ -4,10 +4,21 @@
 
 </div>
 
-<!-- Typing Animation -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=IoT+%26+Embedded+Systems+Developer+%F0%9F%94%A7;Co-Founder+%40+Bug+Busters+%F0%9F%90%9E;Google+Student+Ambassador+%F0%9F%8C%9F;ECE+%40+LNCT+%7C+AI%2FML+%40+IIT+Indore)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=750&height=100&lines=IoT+%26+Embedded+Systems+Developer+%F0%9F%94%A7;Co-Founder+%40+Bug+Busters+%7C+700%2B+Members+%F0%9F%90%9E;Google+Student+Ambassador+%F0%9F%8C%9F;ECE+%40+LNCT+%7C+AI%2FML+%40+IIT+Indore+%F0%9F%94%AC)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitkumarprasad1846/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmitKumarPrasad1846)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitkrprasad1846@gmail.com)
+[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Amikuprasad)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/haircoaction/home)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=AmitKumarPrasad1846&color=00D9FF&style=for-the-badge&label=Profile+Views)
 
 </div>
 
@@ -24,7 +35,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/AmitKumarPrasad1846/AmitKumarPrasad1846/output/github-snake.svg" />
 </picture>
 
-> ⚙️ *To enable the snake animation: Go to your repo → **Actions** → enable **GitHub Actions** → add the [snake workflow](https://github.com/Platane/snk)*
+> ⚙️ *Enable: repo → **Actions** → add the [snake workflow](https://github.com/Platane/snk)*
 
 </div>
 
@@ -37,22 +48,18 @@ class AmitKumarPrasad:
     def __init__(self):
         self.name         = "Amit Kumar Prasad"
         self.role         = "IoT & Embedded Systems Developer"
-        self.company      = "Bug Busters (Co-Founder)"
-        self.ambassador   = "Google Student Ambassador 🌟"
+        self.companies    = ["Bug Busters (Co-Founder)", "Google Student Ambassador 🌟"]
         self.education    = [
             "B.Tech ECE @ LNCT Group of Colleges (2025–2029)",
-            "Diploma in CPS / AI-ML @ IIT Indore × Intellipaat (2025–2027)",
-            "JNV Indore (2020–2024)"
+            "Diploma CPS + AI/ML @ IIT Indore × Intellipaat (2025–2027)",
+            "JNV Indore — Science Stream (2020–2024)"
         ]
         self.location     = "Indore, Madhya Pradesh 🇮🇳"
         self.community    = "Bug Busters — 700+ members & growing 🚀"
-        self.achievements = [
-            "Hackathon Finalist — STPI × IIT Guwahati",
-            "Hackathon Finalist — Cardano Asia 2025",
-            "Campus Ambassador — IIT Delhi, IIT Roorkee, IIT Gandhinagar",
-            "TPC Coordinator — LNCT Group of Colleges",
-            "Runner-Up — College Chess Tournament 🏆"
-        ]
+        self.hackathons   = ["Finalist @ STPI × IIT Guwahati", "Finalist @ Cardano Asia 2025"]
+        self.ambassadors  = ["eDC IIT Delhi", "TRYST IIT Delhi",
+                             "Blithchron IIT Gandhinagar", "Cognizance IIT Roorkee"]
+        self.fun_fact     = "Chess Runner-Up at college fest ♟️"
         self.philosophy   = "Engineering intelligent systems where hardware meets software ⚡"
 
     def say_hi(self):
@@ -61,17 +68,6 @@ class AmitKumarPrasad:
 me = AmitKumarPrasad()
 me.say_hi()
 ```
-
----
-
-## 🎮 Play a Game Right Here!
-
-> 👇 **Click the link below to play a quick Tic-Tac-Toe game — hosted live!**
-> *(Or just enjoy the rest of the profile 😄)*
-
-[![Play Tic-Tac-Toe](https://img.shields.io/badge/🎮_Play_Tic--Tac--Toe-FF6B6B?style=for-the-badge)](https://amitkumarprasad1846.github.io/AmitKumarPrasad1846/game)
-
-> 💡 *Set up the game page in your `gh-pages` branch — I'll write the code below in my repos*
 
 ---
 
@@ -85,16 +81,16 @@ me.say_hi()
 **Google Student Ambassadors (India)** · Internship
 `May 2026 – Present`
 
-Representing the student tech community, organizing events, workshops, and building a growth-oriented campus ecosystem.
+Representing the student tech community. Organizing events, workshops, and driving innovation across campuses.
 
 </td>
 <td width="50%">
 
 ### 🐛 Co-Founder & Technical Lead
-**Bug Busters** · Self-Employed
+**Bug Busters** · Self-Employed (Remote)
 `Mar 2026 – Present`
 
-Built a community of **700+ members**. Leading IoT & AI projects, hackathon teams, and organizing workshops with industry mentors.
+Built a community from scratch → **700+ members**. Leading IoT & AI projects, running workshops (250+ live), managing hackathon teams.
 
 </td>
 </tr>
@@ -105,7 +101,7 @@ Built a community of **700+ members**. Leading IoT & AI projects, hackathon team
 **LNCT Group of Colleges**
 `Jan 2026 – Present`
 
-Coordinating placement drives across 15+ companies, workshops for 1000+ students.
+Coordinating placement drives across 15+ companies. Organizing skill development workshops for 1000+ students.
 
 </td>
 <td width="50%">
@@ -114,28 +110,29 @@ Coordinating placement drives across 15+ companies, workshops for 1000+ students
 **Nerds Room · Codecap Community · DevSphereIndia**
 `Sep 2025 – Present`
 
-Visual content creation, social media growth (30% boost), technical tutorials, and brand design across multiple tech platforms.
+Visual content creation (Figma, Canva), social media growth (**+30%**), technical tutorials, brand design across multiple platforms.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🏛️ Campus Ambassador
-**eDC IIT Delhi · TRYST IIT Delhi**
-**Blithchron IIT Gandhinagar · Cognizance IIT Roorkee**
+### 🏛️ Campus Ambassador × 4 IITs
+**eDC & TRYST — IIT Delhi**
+**Blithchron — IIT Gandhinagar**
+**Cognizance — IIT Roorkee**
 `Dec 2025 – Mar 2026`
 
-Represented 4 IIT fests simultaneously, connecting students with national-level competitions.
+Represented 4 premier IIT fests simultaneously. Connecting 500+ students with national-level competitions.
 
 </td>
 <td width="50%">
 
 ### 💻 Web Developer
-**Hair Coaction** · Remote
+**Hair Coaction** · Part-time Remote
 `Jul 2025 – Sep 2025`
 
-Built responsive business website → **50% growth in online customer reach** within 2 months.
+Built a fully responsive business website → **+50% online customer reach** within 2 months of launch.
 
 </td>
 </tr>
@@ -176,6 +173,7 @@ Built responsive business website → **50% growth in online customer reach** wi
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 </div>
 
@@ -186,8 +184,8 @@ Built responsive business website → **50% growth in online customer reach** wi
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 </div>
 
@@ -202,7 +200,7 @@ Built responsive business website → **50% growth in online customer reach** wi
 ### 🛡️ InfraGuard — IoT Infrastructure Monitor
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AmitKumarPrasad1846)
 
-Real-time vibration, temperature & humidity monitoring system for smart city infrastructure. Automated alerts via MQTT.
+Real-time vibration, temperature & humidity monitoring for smart city infrastructure. Automated MQTT alerts + dashboard.
 
 **Stack:** `ESP8266` `Python` `MQTT` `IoT Cloud`
 
@@ -214,9 +212,9 @@ Real-time vibration, temperature & humidity monitoring system for smart city inf
 ### 🌾 CropShield AI
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AmitKumarPrasad1846/CropShield-AI)
 
-AI-powered crop protection system built during the Cardano Asia Hackathon 2025.
+AI-powered crop protection system. Built during Cardano Asia Hackathon 2025. Smart agriculture meets ML.
 
-**Stack:** `JavaScript` `Python` `TensorFlow` `Figma` `Web Dev`
+**Stack:** `JavaScript` `Python` `TensorFlow` `Figma`
 
 🏆 **Hackathon Finalist — Cardano Asia 2025**
 
@@ -228,35 +226,43 @@ AI-powered crop protection system built during the Cardano Asia Hackathon 2025.
 ### 🏠 Smart Home Dashboard
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AmitKumarPrasad1846/SmartHomeDashboard)
 
-Web-based IoT control panel with glass-morphism UI. Controls lights, fans, appliances — manual & scheduled modes.
+Glass-morphism IoT control panel for home automation. Manual & scheduled modes. Reduced manual effort by **40%**.
 
 **Stack:** `ESP8266` `Arduino C++` `HTML/CSS/JS`
-
-📉 Reduced manual intervention by **40%**
 
 </td>
 <td width="50%">
 
-### 📚 MSSQL Guide + Notes
+### 📚 MSSQL Complete Guide
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AmitKumarPrasad1846/SQL-Journey-Amit-Kumar-Prasad-1846)
 
-Complete beginner-to-advanced MS SQL guide with source code + downloadable notes. Free learning resource.
+Beginner-to-advanced MS SQL guide with source code + downloadable notes. Free community learning resource.
 
 **Stack:** `MS SQL Server` `Documentation`
 
-⭐ *If this helped you, give it a star!*
+⭐ *Star it if it helped you!*
 
 </td>
 </tr>
 <tr>
-<td width="50%" colspan="2">
+<td width="50%">
 
 ### 🌐 HTML Complete Course
 [![Live Site](https://img.shields.io/badge/View_Live-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amitkumarprasad1846.github.io/html-complete-course/)
 
-Comprehensive HTML course with 13 modules + 21-page PDF guide. Built for absolute beginners.
+13 modules + 21-page PDF guide for absolute beginners. Hosted on GitHub Pages.
 
 **Stack:** `HTML5` `CSS3` `JavaScript` `GitHub Pages`
+
+</td>
+<td width="50%">
+
+### 💇 Hair Coaction Website
+[![Live Site](https://img.shields.io/badge/Visit_Live_Site-34A853?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/haircoaction/home)
+
+End-to-end business website with responsive UI/UX + SEO. Grew online customer reach by **50%** in 2 months.
+
+**Stack:** `Google Sites` `UI/UX` `SEO`
 
 </td>
 </tr>
@@ -270,16 +276,17 @@ Comprehensive HTML course with 13 modules + 21-page PDF guide. Built for absolut
 |----------------|----------------|---------|
 | **Hackathon Finalist** | STPI × IIT Guwahati Techniche | 2025 |
 | **Hackathon Finalist** | Cardano Asia Hackathon | 2025 |
-| **Google Student Ambassador** | Google India | 2026 |
-| **Campus Ambassador** | eDC IIT Delhi | 2026 |
+| **Google Student Ambassador** | Google Student Ambassadors India | 2026 |
+| **Campus Ambassador** | eDC IIT Delhi | 2025–26 |
 | **Campus Ambassador** | TRYST, IIT Delhi | 2026 |
 | **Campus Ambassador** | Blithchron, IIT Gandhinagar | 2026 |
 | **Campus Ambassador** | Cognizance, IIT Roorkee | 2026 |
 | **TPC Coordinator** | LNCT Group of Colleges | 2026 |
-| **Chess Runner-Up** | LNCT College Fest | 2026 |
+| **Chess Runner-Up** ♟️ | LNCT College Fest | 2026 |
 | **Certification** | IoT with ESP/Arduino — Bleep Education | Dec 2025 |
 | **Certification** | Dristi CPS — IIT Indore × Intellipaat | Jul 2025 |
 | **Certification** | STPI x TECHNICHE — IIT Guwahati | 2025 |
+| **Certification** | eDC Blueprint 6.0 — Unstop Holiday Fest | Feb 2026 |
 
 ---
 
@@ -311,7 +318,7 @@ Comprehensive HTML course with 13 modules + 21-page PDF guide. Built for absolut
 <div align="center">
 
 > 🚀 I co-founded **Bug Busters** — a student tech community now **700+ members strong**.
-> We run workshops, hackathons, and real-world projects. **Join us and grow together!**
+> We run Git/GitHub workshops (250+ live attendees), hackathons, and real-world IoT projects.
 
 [![Join Bug Busters](https://img.shields.io/badge/Join_Bug_Busters_Community-FF6B35?style=for-the-badge&logo=discord&logoColor=white)](https://lnkd.in/dya3eneY)
 
@@ -324,10 +331,10 @@ Comprehensive HTML course with 13 modules + 21-page PDF guide. Built for absolut
 ## 📈 Currently Learning
 
 ```
-[████████████████████░░░░]  85%  IoT & Embedded Systems (ESP32, MQTT, Node-RED)
-[████████████████░░░░░░░░]  70%  AI/ML (TensorFlow, Scikit-learn, Edge AI)
-[████████████░░░░░░░░░░░░]  60%  Full-Stack Development (React, Node.js, SQL)
-[██████████████████████░░]  90%  Embedded C / Arduino / Hardware Integration
+[██████████████████████░░]  90%  IoT & Embedded Systems (ESP32, MQTT, Node-RED)
+[████████████████░░░░░░░░]  72%  AI/ML (TensorFlow, Scikit-learn, Edge AI)
+[████████████░░░░░░░░░░░░]  62%  Full-Stack Development (React, Node.js, SQL)
+[█████████████████████░░░]  85%  Embedded C / Arduino / Hardware Integration
 ```
 
 ---
@@ -352,7 +359,7 @@ Jawahar Navodaya Vidyalaya (JNV) · `2020 – 2024`
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitkumarprasad1846/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmitKumarPrasad1846)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitkrprasad1846@gmail.com)
-[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Amikuprasad)
+[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Amikuprasad)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/haircoaction/home)
 
 </div>
@@ -367,10 +374,8 @@ Jawahar Navodaya Vidyalaya (JNV) · `2020 – 2024`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" width="100%"/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=AmitKumarPrasad1846&color=00D9FF&style=for-the-badge&label=Profile+Views)
-
 **"Engineering intelligent systems that seamlessly integrate hardware and software."**
 
-*⭐ Star my repos if they helped you! Every star means the world.*
+*⭐ Star my repos if they helped you — it means the world!*
 
 </div>
