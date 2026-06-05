@@ -240,7 +240,8 @@ Professional business website developed for Hair Coaction using modern design pr
 > I co-founded **Bug Busters** — a student tech community now **700+ members strong** 🚀
 > We run Git/GitHub workshops (250+ live), hackathons, and real-world IoT projects.
 
-[![Join Bug Busters](https://img.shields.io/badge/Join_Bug_Busters-FF6B35?style=for-the-badge&logo=discord&logoColor=white)](https://lnkd.in/dya3eneY)
+[![Join Bug Busters](https://img.shields.io/badge/Join_Bug_Busters-FF6B35?style=for-the-badge&logo=discord&logoColor=white)](
+https://chat.whatsapp.com/KPtQUSsprdK7i68uD7QB0L)
 
 *"Coding seekh rahe ho? Direction chahiye? You're not alone. 💯"*
 
