@@ -82,7 +82,7 @@
 
 ### **🛡️ InfraGuard — IoT Infrastructure Monitor**
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmitKumarPrasad1846)
-🏆 **Hackathon Finalist — STPI × IIT Guwahati**
+🏆 **Hackathon Finalist — Sanskriti Univercity**
 
 Real-time vibration, temperature & humidity monitoring for smart city infrastructure. Automated MQTT alerts + cloud dashboard.
 
@@ -98,7 +98,7 @@ Real-time vibration, temperature & humidity monitoring for smart city infrastruc
 
 ### **🌾 CropShield AI**
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmitKumarPrasad1846/CropShield-AI)
-🏆 **Hackathon Finalist — Cardano Asia 2025**
+🏆 **Hackathon Finalist — Techniche x STPI IIT Guwahati**
 
 AI-powered crop protection system. Built during Cardano Asia Hackathon 2025 — smart agriculture meets machine learning.
 
@@ -119,7 +119,7 @@ Web-based IoT control panel with ESP8266 integration for home automation.
 - Manual & scheduled automation modes
 - Responsive glass-morphism UI
 
-![Project Status](https://img.shields.io/badge/Status-Active-success) ![Last Commit](https://img.shields.io/github/last-commit/AmitKumarPrasad1846/SmartHomeDashboard)
+<!--![Project Status](https://img.shields.io/badge/Status-Active-success) ![Last Commit](https://img.shields.io/github/last-commit/AmitKumarPrasad1846/SmartHomeDashboard)-->
 
 📉 Reduced manual intervention by **40%**
 
@@ -148,11 +148,11 @@ Comprehensive HTML course with 13 modules + 21-page PDF guide. Built for absolut
 ### **💇 Hair Coaction Website**
 [![Visit Website](https://img.shields.io/badge/Visit_Website-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/haircoaction/home)
 
-Professional business website developed for Hair Coaction using modern design principles.
+Professional business website developed for Hair Coaction using modern design principles. I made this under my first internship at Hair Coaction, Panipat, Haryana
 
 **Tech Stack:** `Google Sites` `UI/UX Design` `Responsive Design` `SEO`
 
-**Role:** Full Website Development & Design · **+50% online customer reach in 2 months**
+**Role:** Full Website Development & Design ·
 
 ---
 
@@ -223,7 +223,7 @@ Professional business website developed for Hair Coaction using modern design pr
   *LNCT Group of Colleges, Indore*
   `2025 – 2029`
 
-- **Diploma in CPS + AI/ML Certification**
+- **Diploma in DS + AI/ML Certification**
   *IIT Indore × Intellipaat × Drishti CPS*
   `2025 – 2027`
 
@@ -237,7 +237,7 @@ Professional business website developed for Hair Coaction using modern design pr
 
 <div align="center">
 
-> I co-founded **Bug Busters** — a student tech community now **700+ members strong** 🚀
+> Founding member at **Bug Busters** — a student tech community now **1100+ members strong** 🚀
 > We run Git/GitHub workshops (250+ live), hackathons, and real-world IoT projects.
 
 [![Join Bug Busters](https://img.shields.io/badge/Join_Bug_Busters-FF6B35?style=for-the-badge&logo=discord&logoColor=white)](
