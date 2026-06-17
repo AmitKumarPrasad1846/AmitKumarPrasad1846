@@ -156,21 +156,6 @@ Professional business website developed for Hair Coaction using modern design pr
 
 ---
 
-## 📈 CURRENTLY LEARNING
-
-<div align="center">
-
-| Technology Area | Progress | Focus |
-|----------------|----------|-------|
-| **Embedded Systems** | ![90%](https://img.shields.io/badge/90%25-Progress-blue) | ESP32, Arduino, Embedded C |
-| **IoT Systems** | ![85%](https://img.shields.io/badge/85%25-Progress-blue) | ESP32, MQTT, Node-RED |
-| **AI/ML Development** | ![72%](https://img.shields.io/badge/72%25-Progress-blue) | TensorFlow, Scikit-learn, Edge AI |
-| **Full-Stack Development** | ![62%](https://img.shields.io/badge/62%25-Progress-blue) | JavaScript, Java, SQL |
-
-</div>
-
----
-
 ## 🏅 ACHIEVEMENTS & RECOGNITION
 
 <div align="center">
@@ -190,28 +175,6 @@ Professional business website developed for Hair Coaction using modern design pr
 | 📜 **Certification** | Dristi CPS — IIT Indore × Intellipaat | Jul 2025 |
 | 📜 **Certification** | STPI x TECHNICHE — IIT Guwahati | 2025 |
 | 📜 **Certification** | eDC Blueprint 6.0 — Unstop Holiday Fest | Feb 2026 |
-
-</div>
-
----
-
-## 🚀 EXPERIENCE
-
-<div align="center">
-
-| Role | Organization | Period |
-|------|-------------|--------|
-| 🌟 **Google Student Ambassador** | Google Student Ambassadors India | May 2026 – Present |
-| 🐛 **Co-Founder & Technical Lead** | Bug Busters *(700+ members)* | Mar 2026 – Present |
-| 🎓 **TPC Coordinator** | LNCT Group of Colleges | Jan 2026 – Present |
-| 🎨 **Graphic Designer** | Nerds Room | Apr 2026 – Present |
-| 🎨 **Graphic Designer** | Codecap Community | Jan 2026 – Present |
-| 🏛️ **Campus Ambassador** | eDC IIT Delhi | Dec 2025 – Jan 2026 |
-| 🏛️ **Campus Ambassador** | TRYST, IIT Delhi | Feb 2026 – Mar 2026 |
-| 🏛️ **Campus Ambassador** | Blithchron, IIT Gandhinagar | Jan 2026 – Feb 2026 |
-| 🏛️ **Campus Ambassador** | Cognizance, IIT Roorkee | Jan 2026 – Mar 2026 |
-| 🎨 **Graphic Designer** | DevSphereIndia | Sep 2025 – Jan 2026 |
-| 💻 **Web Developer** | Hair Coaction | Jul 2025 – Sep 2025 |
 
 </div>
 
