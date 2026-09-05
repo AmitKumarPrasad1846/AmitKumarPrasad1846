@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=180&section=header&text=AMIT%20KUMAR%20PRASAD&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IoT%20%26%20Embedded%20Systems%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20ECE%20Student&descSize=18&descAlignY=62&descColor=a9fef7" width="100%" alt="Amit Kumar Prasad Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=180&section=header&text=AMIT%20KUMAR%20PRASAD&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IoT%20%26amp%3B%20Embedded%20Systems%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20ECE%20Student&descSize=18&descAlignY=62&descColor=a9fef7" width="100%" alt="Amit Kumar Prasad Banner" />
 
 <!-- Animated Dynamic Typing Subtitle -->
 <a href="https://github.com/AmitKumarPrasad1846">
