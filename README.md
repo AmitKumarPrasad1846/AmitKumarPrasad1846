@@ -58,6 +58,13 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AmitKumarPrasad1846&layout=compact&theme=radical&hide_border=true&langs_count=8" height="192" alt="Top Languages" />
 </a>
 
+<br><br>
+
+<!-- GitHub Contribution Calendar -->
+<a href="https://github.com/AmitKumarPrasad1846">
+  <img src="https://ghchart.rshah.org/38bdf8/AmitKumarPrasad1846" alt="Amit Kumar Prasad's GitHub Contribution Calendar" width="100%" />
+</a>
+
 </div>
 
 ---
@@ -134,18 +141,6 @@
 
 ---
 
-<hr>
-
-<img alt="3D Contribution Calendar" src="github-metrics.svg">
-
-
-<p align="center">
-  <a href="mailto:chandrasatyam4w@gmail.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=🚀+Let's+Build+AI+Futures+Together;🤝+Open+for+Collaboration;💼+Available+for+Hiring+in+AI%2C+ML%2C+Data+Science" alt="Typing SVG" />
-  </a>
-</p>
-
----
 ## 🎓 Education
 
 <table width="100%">
@@ -274,6 +269,13 @@
 ## 📬 Let's Collaborate
 
 <div align="center">
+
+<!-- Animated Collaboration & Opportunities Banner -->
+<a href="mailto:amitkrprasad1846@gmail.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Let's+Build+AI+%26+IoT+Futures+Together;%F0%9F%A4%9D+Open+for+High-Impact+Collaboration;%F0%9F%92%BC+Available+for+IoT%2C+AI%2FML+%26+Data+Science+Roles" alt="Collaboration Typing SVG" />
+</a>
+
+<br><br>
 
 <p align="center">
   <b>I am actively open to collaborating on innovative ideas and high-impact initiatives:</b>
