@@ -58,13 +58,6 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AmitKumarPrasad1846&layout=compact&theme=radical&hide_border=true&langs_count=8" height="192" alt="Top Languages" />
 </a>
 
-<br><br>
-
-<!-- GitHub Contribution Calendar -->
-<a href="https://github.com/AmitKumarPrasad1846">
-  <img src="https://ghchart.rshah.org/38bdf8/AmitKumarPrasad1846" alt="Amit Kumar Prasad's GitHub Contribution Calendar" width="100%" />
-</a>
-
 </div>
 
 ---
@@ -263,6 +256,14 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 📅 3D Contribution Calendar
+
+<div align="center">
+  <img alt="3D Contribution Calendar" src="github-metrics.svg" />
+</div>
 
 ---
 
