@@ -134,6 +134,18 @@
 
 ---
 
+<hr>
+
+<img alt="3D Contribution Calendar" src="github-metrics.svg">
+
+
+<p align="center">
+  <a href="mailto:chandrasatyam4w@gmail.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=🚀+Let's+Build+AI+Futures+Together;🤝+Open+for+Collaboration;💼+Available+for+Hiring+in+AI%2C+ML%2C+Data+Science" alt="Typing SVG" />
+  </a>
+</p>
+
+---
 ## 🎓 Education
 
 <table width="100%">
