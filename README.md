@@ -44,7 +44,7 @@
 
 <!-- GitHub Streak Stats (Total Contributions, Current Streak, Longest Streak) -->
 <a href="https://github.com/AmitKumarPrasad1846">
-  <img src="https://streak-stats.demolab.com/?user=AmitKumarPrasad1846&theme=radical&hide_border=true" alt="Amit's GitHub Streak" />
+  <img src="streak-stats.svg" alt="Amit's GitHub Streak" />
 </a>
 
 <br><br>
