@@ -51,7 +51,7 @@
 
 <!-- Overall Stats & Top Languages -->
 <a href="https://github.com/AmitKumarPrasad1846">
-  <img src="https://github-stats-extended.vercel.app/api?username=AmitKumarPrasad1846&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="192" alt="Amit's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=AmitKumarPrasad1846&show_icons=true&theme=radical&hide_border=true" height="192" alt="Amit's GitHub Stats" />
 </a>
 &nbsp;
 <a href="https://github.com/AmitKumarPrasad1846">
