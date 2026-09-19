@@ -42,20 +42,20 @@
 
 <div align="center">
 
-<!-- GitHub Streak Stats (Total Contributions, Current Streak, Longest Streak) -->
+<!-- Live GitHub Streak (refreshes from GitHub API when the page loads) -->
 <a href="https://github.com/AmitKumarPrasad1846">
-  <img src="streak-stats.svg" alt="Amit's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AmitKumarPrasad1846&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Amit's GitHub Streak" />
 </a>
 
 <br><br>
 
-<!-- Overall Stats & Top Languages -->
+<!-- Live Overall Stats & Top Languages -->
 <a href="https://github.com/AmitKumarPrasad1846">
-  <img src="https://github-stats-extended.vercel.app/api?username=AmitKumarPrasad1846&show_icons=true&theme=radical&hide_border=true" height="192" alt="Amit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmitKumarPrasad1846&show_icons=true&theme=radical&hide_border=true" height="192" alt="Amit's GitHub Stats" />
 </a>
 &nbsp;
 <a href="https://github.com/AmitKumarPrasad1846">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AmitKumarPrasad1846&layout=compact&theme=radical&hide_border=true&langs_count=8" height="192" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumarPrasad1846&layout=compact&theme=radical&hide_border=true&langs_count=8" height="192" alt="Top Languages" />
 </a>
 
 </div>
