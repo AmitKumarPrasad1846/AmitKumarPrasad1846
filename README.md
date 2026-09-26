@@ -51,11 +51,11 @@
 
 <!-- Live Overall Stats & Top Languages -->
 <a href="https://github.com/AmitKumarPrasad1846">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmitKumarPrasad1846&show_icons=true&theme=radical&hide_border=true" height="192" alt="Amit's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=AmitKumarPrasad1846&show_icons=true&theme=radical&hide_border=true" height="192" alt="Amit's GitHub Stats" />
 </a>
 &nbsp;
 <a href="https://github.com/AmitKumarPrasad1846">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumarPrasad1846&layout=compact&theme=radical&hide_border=true&langs_count=8" height="192" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AmitKumarPrasad1846&layout=compact&theme=radical&hide_border=true&langs_count=8" height="192" alt="Top Languages" />
 </a>
 
 </div>
