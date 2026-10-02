@@ -143,15 +143,7 @@
         <img align="right" src="https://img.shields.io/badge/Duration-Aug_2025_%E2%80%93_Sep_2029-38BDF8?style=flat-square&logo=clockify&logoColor=white" alt="2025 - 2029" />
       </a>
       <h3>🏛️ LNCT Group of Colleges</h3>
-      <p><b>🎓 Bachelor of Technology (B.Tech) &mdash; Electrical, Electronics and Communications Engineering (ECE)</b><br>
-      <i>Focus on Electronics, Communication Systems, IoT Hardware, and Embedded Intelligence</i></p>
-      <ul>
-        <li><b>🎯 Activities &amp; Societies:</b> Training &amp; Placement Cell (TPC) Coordinator</li>
-        <li><b>🔬 Academic Specialization:</b> Microcontrollers, Embedded C/C++, VLSI Architectures, Sensor Networks &amp; Signal Processing</li>
-        <li><b>🛠️ Associated Skills:</b>
-          <code>ESP8266</code> <code>ESP32</code> <code>C / C++</code> <code>VLSI</code> <code>Embedded Systems</code> <code>IoT Architecture</code> <code>Circuit Design</code>
-        </li>
-      </ul>
+      <p><b>Bachelor of Technology (B.Tech) &mdash; Electronics and Communications Engineering (ECE)</b><br></p>
     </td>
   </tr>
 </table>
@@ -162,16 +154,8 @@
       <a href="https://www.linkedin.com/in/amitkumarprasad1846/">
         <img align="right" src="https://img.shields.io/badge/Duration-Jul_2025_%E2%80%93_Jan_2027-38BDF8?style=flat-square&logo=clockify&logoColor=white" alt="2025 - 2027" />
       </a>
-      <h3>🏛️ Indian Institute of Technology, Indore (IIT Indore)</h3>
-      <p><b>🎓 Diploma / Professional Certification &mdash; Artificial Intelligence, Machine Learning &amp; Data Science</b><br>
-      <i>Executive Program by IIT Indore &times; Intellipaat &times; Drishti CPS</i></p>
-      <ul>
-        <li><b>🎯 Core Curriculum:</b> Advanced Machine Learning, Deep Neural Networks, Predictive Modeling, Big Data Systems</li>
-        <li><b>🔬 Applied Focus:</b> Computer Vision, Edge ML for IoT, Statistical Analysis &amp; Data-Driven Decision Systems</li>
-        <li><b>🛠️ Associated Skills:</b>
-          <code>Python</code> <code>TensorFlow</code> <code>Scikit-Learn</code> <code>NumPy</code> <code>Pandas</code> <code>SQL / DBMS</code> <code>Data Analysis</code>
-        </li>
-      </ul>
+      <h3>Indian Institute of Technology, Indore (IIT Indore)</h3>
+      <p><b>Diploma / Professional Certification &mdash; Artificial Intelligence, Machine Learning &amp; Data Science</b><br>
     </td>
   </tr>
 </table>
@@ -182,77 +166,16 @@
       <a href="https://www.linkedin.com/in/amitkumarprasad1846/">
         <img align="right" src="https://img.shields.io/badge/Duration-2020_%E2%80%93_2024-38BDF8?style=flat-square&logo=clockify&logoColor=white" alt="2020 - 2024" />
       </a>
-      <h3>🏫 Jawahar Navodaya Vidyalaya (JNV)</h3>
-      <p><b>🎓 High School &amp; Senior Secondary &mdash; Science &amp; Mathematics Stream</b><br>
+      <h3>Jawahar Navodaya Vidyalaya (JNV)</h3>
+      <p><b>High School &amp; Senior Secondary &mdash; Science &amp; Mathematics Stream</b><br>
       <i>Premier residential STEM institution emphasizing academic excellence and leadership</i></p>
       <ul>
-        <li><b>🎯 Leadership &amp; Honors:</b> <b>Head Boy</b> &bull; Regional Badminton Player &bull; Public Speaking &amp; Debate Winner</li>
-        <li><b>🏆 Recognition:</b> Regional Sports Certificate &amp; Academic Honors</li>
-        <li><b>🛠️ Foundation Skills:</b>
+        <li><b>Leadership &amp; Honors:</b> <b>Head Boy</b> &bull; Regional Badminton Player &bull; Public Speaking &amp; Debate Winner</li>
+        <li><b>Recognition:</b> Regional Sports Certificate &amp; Academic Honors</li>
+        <li><b>Foundation Skills:</b>
           <code>Python</code> <code>SQL</code> <code>Mathematics</code> <code>Team Leadership</code> <code>Problem Solving</code> <code>Public Speaking</code>
         </li>
       </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🚀 Featured Repositories
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/AmitKumarPrasad1846/ResQ_RoadSoS_IITM">🚨 ResQ_RoadSoS_IITM</a></h4>
-      <p>Emergency road SOS and response management platform engineered for rapid disaster coordination and real-time situational reporting.</p>
-      <p>
-        <img src="https://img.shields.io/badge/IoT%20%26%20Web-HTML%20%2F%20JS-blue?style=flat-square" alt="Tech" />
-        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/AmitKumarPrasad1846/SQL-Journey-Amit-Kumar-Prasad-1846">📊 SQL Journey &amp; Complete Notes</a></h4>
-      <p>End-to-end MS SQL Server mastery repository with structured queries, schema design notes, and downloadable guides for the community.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Database-MS%20SQL%20Server-CC292B?style=flat-square" alt="MS SQL" />
-        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/AmitKumarPrasad1846/SmartHomeDashboard">🏡 SmartHomeDashboard (ESP8266)</a></h4>
-      <p>ESP8266-driven IoT smart home control center with a custom sunset glassmorphism interface, sensor telemetry, and appliance relay controls.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Hardware-ESP8266%20%2F%20C%2B%2B-00599C?style=flat-square" alt="Hardware" />
-        <img src="https://img.shields.io/badge/UI-Sunset%20Glass-orange?style=flat-square" alt="UI" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/AmitKumarPrasad1846/CropShield_AI">🌾 CropShield AI</a></h4>
-      <p>AI-driven precision agriculture and crop protection platform built to detect agricultural anomalies and assist farmers with actionable insights.</p>
-      <p>
-        <img src="https://img.shields.io/badge/AI-Machine%20Learning-FF6F00?style=flat-square" alt="AI" />
-        <img src="https://img.shields.io/badge/Hackathon-Finalist-gold?style=flat-square" alt="Hackathon" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/AmitKumarPrasad1846/Complete_AI_ML_challenge">🧠 Complete AI &amp; ML Challenge</a></h4>
-      <p>Comprehensive repository of machine learning algorithms, deep learning experiments, NumPy/Pandas pipelines, and hands-on Jupyter notebooks.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Stack-Python%20%2F%20Jupyter-3776AB?style=flat-square" alt="Python" />
-        <img src="https://img.shields.io/badge/Domain-Data%20Science-blueviolet?style=flat-square" alt="Data Science" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/AmitKumarPrasad1846/html-complete-course">🌐 HTML Complete Course</a></h4>
-      <p>Full 13-module beginner-to-advanced web development curriculum with live demonstrations, comprehensive code samples, and practical guides.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Frontend-HTML5%20%2F%20CSS3-E34F26?style=flat-square" alt="Frontend" />
-        <img src="https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-blue?style=flat-square" alt="Live Demo" />
-      </p>
     </td>
   </tr>
 </table>
@@ -284,14 +207,14 @@
 
 | Collaboration Domain | Scope &amp; Tech Focus |
 | :--- | :--- |
-| ⚡ **IoT &amp; Embedded Systems** | ESP32 / ESP8266 automation, sensor arrays, MQTT cloud pipelines, smart cities &amp; hardware prototyping |
-| 🧠 **Applied AI &amp; Data Science** | Computer Vision, AgriTech &amp; CropShield improvements, edge machine learning, and predictive models |
-| 🏆 **Hackathons &amp; Competitions** | National/international hackathon teams, rapid sprint prototyping, and open-source contributions |
-| 🌟 **Developer Communities** | Technical workshops, Google Student Ambassador initiatives, and campus tech ecosystem growth |
+| **IoT &amp; Embedded Systems** | ESP32 / ESP8266 automation, sensor arrays, MQTT cloud pipelines, smart cities &amp; hardware prototyping |
+| **Applied AI &amp; Data Science** | Computer Vision, AgriTech &amp; CropShield improvements, edge machine learning, and predictive models |
+| **Hackathons &amp; Competitions** | National/international hackathon teams, rapid sprint prototyping, and open-source contributions |
+| **Developer Communities** | Technical workshops, Google Student Ambassador initiatives, and campus tech ecosystem growth |
 
 <br>
 
-### 🤝 Connect with Me
+### Connect with Me
 
 <!-- Direct Social Media Icons -->
 <p align="center">
